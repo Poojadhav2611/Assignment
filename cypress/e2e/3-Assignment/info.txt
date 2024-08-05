@@ -1,0 +1,11 @@
+//steps to install cypress and run the test cases
+
+Step1- npm init(plugin installation)
+
+step2-npm install cypress
+
+step 3-npm install npx
+
+step 4-npx cypress open
+
+after opening test runner need to run FitPeo.cy.js file
